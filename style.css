@@ -1,0 +1,15 @@
+body {
+text-align : center;
+background-color : red;
+}
+
+#div {
+background-color : grey;
+}
+
+h1 {
+border : groove;
+border-width: 20px;
+border-color: red;
+}
+
